@@ -5,16 +5,16 @@
 
 **Problem:** At time of expo, Booth owners struggle to capture visitor information. 
 Physical visiting cards needs to be entered in excel sheet for follow up. In some 
-case visitors do not have visiting cards or they run out of card, in this case they 
-write contact details in visitor book. NFC contact share is only limited to certain 
-iPhone. If there is a way through OCR or QR code where you can capture visitor 
-data in digital format then it becomes easy to follow up with potential clients.
+cases, visitors do not have visiting cards or they run out of cards. In that case, they 
+write contact details in a visitor book. To have to go through the whole book to look for potential clients is an infeasible task. 
+If there is a way through OCR or QR code where you can capture visitor 
+data in digital format then it becomes easy to follow up with potential clients. Technology such as NFC already exists in the market but it is limited to certain iPhones only. This is our attempt at creating an Android application to solve the said problem. 
 
 ## Features
 
 - User friendy interface
 - Active reading of qr codes.
-- Constructing qr codes based on desierd input.
+- Constructing qr codes based on desired input.
 
 ## Description
 
